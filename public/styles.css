@@ -134,6 +134,14 @@ section.light {
   --text-3: #385aec;
 }
 
+.goblim {
+  display: block;
+  width: 275px;
+  height: 318px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .skelington {
   display: block;
   width: 307px;
